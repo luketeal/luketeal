@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Web Developer Profile
+- 🔭 I’m currently working on my a Password Generator using Javascript
 - 🌱 I’m currently learning abut Javascript
 
 <!--
