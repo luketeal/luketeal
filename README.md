@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my a Password Generator using Javascript
-- 🌱 I’m currently learning abut Javascript
+- 🔭 I’m currently working on updating my portfolio
+- 🌱 I’m currently learning abut node
+- ⚡ I love farming
 
 <!--
 **luketeal/luketeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
