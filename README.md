@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on updating my portfolio
-- 🌱 I’m currently learning about computer science fundamentals
-- ⚡ I love farming
+- ⚡ I’m currently learning about computer science fundamentals
+- 🌱 I love farming
 
 <!--
 **luketeal/luketeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
