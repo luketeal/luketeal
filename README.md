@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on updating my portfolio
-- ⚡ I’m currently learning about computer science fundamentals
 - 🌱 I love farming
 
 <!--
