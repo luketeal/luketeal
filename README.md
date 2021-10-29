@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on updating my portfolio
+- 🔭 I’m currently learning C#
 - 🌱 I love farming
 
 <!--
